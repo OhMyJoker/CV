@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #CFD2CF;
+  border-width: 10px;
+  width: 7%;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  margin: 120px auto 0 auto;
+  font-family: 'Merriweather', serif;
+  font-size: 6.25rem;
+  color: #748DA6;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #748DA6;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #748DA6;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+p{
+  font-size: 1.2rem;
+}
+
+.program{
+  margin-top: 30px;
+  height: 400px;
+  width: 400px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-top: 30px;
+}
+
+.codep{
+  margin: 50px auto 50px auto;
+}
+
+.gamep{
+  margin: 50px auto 50px auto;
+}
+
+.prof{
+  width: 250px;
+  height: 250px;
+}
+
+.profile p{
+  width: 30%;
+  margin: auto;
+}
+
+.coding{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.game{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.top-container {
+  background-color: #F2F2F2;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-top: 100px;
+  background-color: #F2F2F2;
+}
+
+.bottom-container {
+  background-color: #748DA6;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.bottom-container a{
+  color: #5F6F94;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 600px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 100px;
+}
+
+.skills{
+  position: relative;
+  display: inline-block;
+}
+
+.contact-me{
+  padding-bottom: 80px;
+  position: relative;
+  margin-top: 100px;
+  color: #748DA6;
+}
+
+
+
+a{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  color: #748DA6;
+  font-size: 1.2rem;
+  padding-left: 30px;
+}
+
+.btn{
+  background-color: #748DA6;
+  color: white;
+  border: 2px solid #748DA6;
+  padding: 5px;
+  border-radius: 15px;
+  transition-duration: 0.4s;
+
+}
+
+.btn:hover {
+  background-color: white;
+  color: #748DA6;
+  border-color: #748DA6;
+}
+
+.bottom-container p{
+  color: white;
+}
+
+.footer-link{
+  color: #596E79;
+}
